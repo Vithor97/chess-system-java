@@ -13,7 +13,7 @@ import chess.ChessPosition;
 public class Program {
 
 	public static void main(String[] args) {
-//OI TESTE DE RESET
+//teste
 		Scanner sc = new Scanner(System.in);
 		ChessMatch chessMatch = new ChessMatch();
 		List<ChessPiece> captured = new ArrayList<>();
