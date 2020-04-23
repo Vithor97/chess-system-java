@@ -2,7 +2,7 @@
 package application;
 
 public class MaisUmTesteGIT {
-	//Teste
-	//devTeste --acrescento algo aqui da relese
+	//Test forevis release
+	//release forever
 	//devTeste forever
 }
